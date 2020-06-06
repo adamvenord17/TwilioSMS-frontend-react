@@ -1,0 +1,17 @@
+export const USER = {
+    SIGNED_IN: 'SIGNED_IN',
+    SET_PROFILE: 'SET_PROFILE',
+    SIGNED_OUT: 'SIGNED_OUT',
+    SET_USER_LIST: 'SET_USER_LIST'
+}
+
+export const SMS = {
+    SEND_SMS: 'SEND_SMS',
+    SET_SMS_SENT: "SET_SMS_SENT",
+    SET_SMS_RECEIVED: "SET_SMS_RECEIVED",
+}
+
+export const COMMON = {
+    SET_ALERT_FUNC: 'SET_ALERT_FUNC',
+    SHOW_ALERT: 'SHOW_ALERT'
+}
